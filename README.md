@@ -1,2 +1,2 @@
-# casino-ethereum
-This is a simple casino build with solidity, truffle and react
+# Lotto DAPP
+This is a simple decentralized lottery seller build with solidity, truffle and react
